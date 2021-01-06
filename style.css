@@ -156,9 +156,27 @@ display:inline block;
     margin:0 auto;
 }
 
+#copyright{
+    color:#363956;
+    font-size: 12px;
+    text-align: center;
+}
 
-
-
+.menu-bar{
+    display:block;
+    width:100%;
+    height:50px;
+}
+.menu-item{
+    color:#3C3C3C;
+    display:inline-block;
+    padding-left:20px;
+    
+  }
+#right-menu{
+    margin: 20px 200px;
+    float:right;
+}
 
 
 

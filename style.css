@@ -68,11 +68,19 @@ display:inline-block;
 margin:1%;
 background:white;
 border-radius:15px;
+box-shadow: 10px 10px 20px gray;
 
 }
 
+#power{
+    border-left:1px solid;
+    border-radius:15px;
+    background-image: linear-gradient(black,black);
+    border-image-slice:1;
+}
 .sub-section{
 margin-left:50px;
+margin-bottom:100px;
 
 }
 

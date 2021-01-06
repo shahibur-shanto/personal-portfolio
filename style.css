@@ -1,0 +1,173 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin:0;
+    
+}
+.second-section{
+margin:100px 100px;
+}
+.hello{
+    font-size: 36px;
+    color:#363958;
+    margin-bottom:0;
+}
+p{
+    color:#3E3E3E;
+}
+.name{
+    color:#ff8367;
+    font-size: 36px;
+    margin-top:0;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+    background-color: #e96666;
+    display: inline-block;
+    padding: 16px 50px;
+    border-radius: 8px;
+    
+}
+.left-section{
+    width:37%;
+    float:left;
+    margin-right:50px;
+   
+}
+.right-section{
+    width:50%;
+    float: left;
+    margin-right:50px;
+    
+}
+
+img{
+    width:80%;
+    height:70%;
+}
+
+.photo-section{
+    display:inline-block;
+    background-color:#f0f0f0;
+    margin-top:100px;
+    margin-bottom:100px;
+}
+
+.heading{
+margin-top:100px;
+margin-bottom:100px;
+text-align:center;
+}
+
+
+.photo-row{
+width:30%;
+display:inline-block;
+margin:1%;
+background:white;
+border-radius:15px;
+
+}
+
+.sub-section{
+margin-left:50px;
+
+}
+
+.center-photo{
+margin-left:auto;
+margin-right:auto;
+margin-top:20px;
+display:block;
+}
+
+.center-heading{
+margin-left:40px;
+
+}
+
+
+.last-section{
+width:50%;
+height:100px;
+background-image:url("images/Group_33094_1.png");
+}
+
+.last-sec{
+width:50%;
+margin: 0 auto;
+}
+
+.footer-banner{
+border-radius:20px;
+width:100%;
+height:140px;
+margin:50px auto;
+background-image:url("images/Group_33094_1.png");
+background-size:cover;
+background-repeat:no-repeat;
+
+
+}
+
+.footer-half_one{
+width:40%;
+margin: 20px 40px;
+float:left;
+display:inline block;
+
+}
+.footer-half_two{
+    width:40%;
+    margin: 40px 20px;
+    float:right;
+    display:inline block;
+    }
+.work{
+    color: white;
+    font-size: 36px;
+}
+
+
+#center_one{
+    color:#696871;
+    text-align:center;
+    
+    
+}
+#center_two{
+    color:#363956;
+    text-align:center;
+    
+    font-size:32px;
+    
+}
+
+.icon{
+    width:50px;
+    height:50px;
+    display:inline-block;
+    margin: 10px;
+}
+.center-icon{
+    width:250px;
+    margin:0 auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
